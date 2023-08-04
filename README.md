@@ -3,7 +3,7 @@
 ## WARNING:
 This bot was written in a few hours. There are no tests and it has not been certified to work correctly. Do not use tokens of value with this bot. I take no responsiblity for any lost funds of any kind.
 
-Also note this project is written in Javascript using npm packages which should be consider insecure.
+Also note this project is written in Javascript using npm packages which should be considered insecure.
 
 ## DEMO:
 There is a demo bot running at [@slp_div_bot](https://telegram.me/@slp_div_bot)
